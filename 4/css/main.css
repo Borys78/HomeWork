@@ -1,0 +1,113 @@
+.bg {
+	background-image: url(../img/main-bg.png);
+	background-size:cover;
+	height: -webkit-fill-available;
+}
+
+.head {
+	height: 170px;
+    width: 1000px; 
+	background-color: white;
+	margin: auto;
+	margin-top:  50px;
+}
+.logo {
+	margin-left: 10px;
+	padding: 2px;
+}
+.contact {
+	margin-top:10px;
+	margin-right: 20px;
+	float: right;
+	height: 80px;
+    width: 150px; 
+    font-size: 14px;
+    font-family: tahoma;
+    color: #7e9fd3;
+    text-align: right;    
+}
+
+.flag {
+	margin-top: 30px;
+	float: right;
+	height: 70px;
+    width: 580px;
+	font-size: 10px;
+    font-family: tahoma; 
+    color: #7e9fd3
+}
+.sp {
+	margin: 0;
+  	padding: 0;
+  	float: right;
+}
+.sp li {
+	display: inline-block;
+	margin: 0 10px;
+	text-align: center
+}
+.menu {
+	height: 30px;
+    width: 1000px; 
+	background-color: #37383a;
+	margin:0px;
+}
+.menu_list {
+	margin: 0; padding: 0;
+}
+.m1 {
+	list-style-image: url(file:///C:/Users/Borys/Desktop/HTML&CSS/Lesson_4/img/white-triangle.png)
+}
+.list {
+	font: 17px tahoma, sans-serif;
+    color: white; 
+    text-align: center;
+    text-decoration: none;
+  	}
+
+.list li {
+	display: inline-block;
+	margin: 0 15px;
+	text-align: center
+	}
+.list a {
+	text-decoration: none; 
+ 	color: white; 
+	 display: block; 
+}
+.list_1 {
+	display: none;
+}
+.list_1:hover ul{
+display: block;
+}
+.list_2 {
+	display: none;
+}
+.list_2:hover ul {
+  display: block;
+}
+.form1 {
+	width: 20%; 
+	background-color: grey;
+	margin: auto;
+	float: right;
+	font-size: 14px;
+    font-family: tahoma;
+	
+}
+.form2 {
+	width: 60%; 
+	background-color: white;
+	margin: auto;
+	font-size: 14px;
+    font-family: tahoma;
+}
+.form3 {
+	width: 20%; 
+	background-color: grey;
+	margin: auto;
+	float: left;
+	font-size: 14px;
+    font-family: tahoma;
+	}
